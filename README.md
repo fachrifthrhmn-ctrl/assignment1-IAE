@@ -77,7 +77,7 @@ This project demonstrates the ability to:
 
 1. Download or clone this repository  
    ```bash
-   git clone https://github.com/yourusername/spacex-launch-explorer.git
+   git clone https://github.com/fachrifthrhmn-ctrl/assignment1-IAE.git
 2. Buka folder projectnya
    ```bash
    cd spacex-launch-explorer

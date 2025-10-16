@@ -1,0 +1,40 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #333;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 8px 20px rgba(255, 255, 255, 0.08);
+}
+
+.btn-custom {
+  background-color: #0d6efd;
+  border: none;
+  transition: background-color 0.2s ease;
+}
+
+.btn-custom:hover {
+  background-color: #0b5ed7;
+}
+
+#searchInput {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  color: white;
+  padding: 10px 14px;
+}
+
+#searchInput::placeholder {
+  color: #aaa;
+}
